@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "DH150",
+    "description": "",
+    "home_page_url": "https://jasminef7.github.io/coriolanus",
+    "feed_url": "https://jasminef7.github.io/coriolanus/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Jasmine Fung"
+    },
+    "items": [
+    ]
+}
